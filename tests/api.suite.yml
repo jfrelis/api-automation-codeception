@@ -1,0 +1,7 @@
+actor: ApiTester
+modules:
+    enabled:
+        - REST:
+            depends: PhpBrowser
+            url: https://reqres.in/api/
+            shortDebugResponse: 300

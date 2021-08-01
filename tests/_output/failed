@@ -1,0 +1,9 @@
+tests\api\get\DelayedResponseCest.php:tryToTest
+tests\api\get\ListResourceCest.php:tryToTest
+tests\api\get\SingleResourceCest.php:tryToTest
+tests\api\get\SingleUserCest.php:tryToTest
+tests\api\post\CreateUserCest.php:tryToTest
+tests\api\post\SuccessfulLoginCest.php:tryToTest
+tests\api\post\SuccessfulRegisterCest.php:tryToTest
+tests\api\post\UnsuccessfulLoginCest.php:tryToTest
+tests\api\post\UnsuccessfulRegisterCest.php:tryToTest
